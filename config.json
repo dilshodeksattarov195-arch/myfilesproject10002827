@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routercender",
+        "uuid": 8229397,
+        "checksum": "9842u"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
